@@ -1,0 +1,15 @@
+{
+	"elements":
+	[
+		{ "type": "Label", "label": "Das hier ist ein Test Label " },
+		{ "type": "Button", "label": "Werte auslesen", "onClick": "ARM_UpdateEvents($id);" }
+		{ "type": "Button", "label": "Werte auslesen", "onClick": "ARM_UpdateEvents($id);" }
+		{ "type": "Button", "label": "Werte auslesen", "onClick": "ARM_UpdateEvents($id);" }
+		{ "type": "Button", "label": "Werte auslesen", "onClick": "ARM_UpdateEvents($id);" }
+		{ "type": "Button", "label": "Werte auslesen", "onClick": "ARM_UpdateEvents($id);" }
+		{ "type": "Button", "label": "Werte auslesen", "onClick": "ARM_UpdateEvents($id);" }
+		{ "type": "Button", "label": "Werte auslesen", "onClick": "ARM_UpdateEvents($id);" }
+		{ "type": "Button", "label": "Werte auslesen", "onClick": "ARM_UpdateEvents($id);" }
+		{ "type": "Button", "label": "Werte auslesen", "onClick": "ARM_UpdateEvents($id);" }
+	]
+}
