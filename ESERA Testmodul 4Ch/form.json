@@ -3,13 +3,7 @@
 	[
 		{ "type": "Label", "label": "Das hier ist ein Test Label " },
 		{ "type": "Button", "label": "Werte auslesen", "onClick": "ARM_UpdateEvents($id);" }
-		{ "type": "Button", "label": "Werte auslesen2", "onClick": "ARM_UpdateEvents($id);" }
-		{ "type": "Button", "label": "Werte auslesen3", "onClick": "ARM_UpdateEvents($id);" }
-		{ "type": "Button", "label": "Werte auslesen4", "onClick": "ARM_UpdateEvents($id);" }
-		{ "type": "Button", "label": "Werte auslesen5", "onClick": "ARM_UpdateEvents($id);" }
-		{ "type": "Button", "label": "Werte auslesen6", "onClick": "ARM_UpdateEvents($id);" }
-		{ "type": "Button", "label": "Werte auslesen7", "onClick": "ARM_UpdateEvents($id);" }
-		{ "type": "Button", "label": "Werte auslesen8", "onClick": "ARM_UpdateEvents($id);" }
-		{ "type": "Button", "label": "Werte auslesen9", "onClick": "ARM_UpdateEvents($id);" }
+		{ "type": "Button", "label": "Werte auslesen2", "onClick": "echo $id;" }
+
 	]
 }
