@@ -1,6 +1,6 @@
 <?
 
-	class Alarmierung extends IPSModule {
+	class ESERA_Alarmierung extends IPSModule {
 		
 		public function Create()
 		{
