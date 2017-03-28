@@ -2,7 +2,8 @@
 	"elements":
 	[
 		{ "type": "Label", "label": "Das hier ist ein Test Label " },
-		{ "type": "Button", "label": "Werte auslesen2", "onClick": "echo $id;" }
+		{ "type": "Button", "label": "Werte auslesen2", "onClick": "echo $id;" },
+		{ "type": "Button", "label": "Werte auslesen3", "onClick": "echo $id;" }
 
 	]
 }
