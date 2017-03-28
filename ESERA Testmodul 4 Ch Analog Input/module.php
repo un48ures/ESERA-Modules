@@ -1,6 +1,6 @@
 <?
     // Klassendefinition
-    class ESERA_Testmodul extends IPSModule {
+    class ESERA_Testmodul_4Ch extends IPSModule {
  
         // Der Konstruktor des Moduls
         // Überschreibt den Standard Kontruktor von IPS
